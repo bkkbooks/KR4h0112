@@ -718,6 +718,7 @@ markers:
   - {type: line-break, offset: 1788, content: '', id: KR4h0112_WYG_009-9a02}
   - {type: indent, offset: 1788, content: 　　, id: KR4h0112_krp_009-bkkind39}
   - {type: punctuation, offset: 1788, content: (, id: KR4h0112_krp_009-bkkpn1}
+  - {type: voice, offset: 1788, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 1789, content: /, id: KR4h0112_krp_009-bkkpn2}
   - {type: punctuation, offset: 1789, content: ), id: KR4h0112_krp_009-bkkpn3}
   - {type: 'kr:newline', offset: 1793, content: '
@@ -860,6 +861,7 @@ markers:
   - {type: line-break, offset: 2182, content: '', id: KR4h0112_WYG_009-10b03}
   - {type: substitution, offset: 2187, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
   - {type: punctuation, offset: 2196, content: (, id: KR4h0112_krp_009-bkkpn4}
+  - {type: voice, offset: 2196, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 2198, content: /, id: KR4h0112_krp_009-bkkpn5}
   - {type: punctuation, offset: 2198, content: ), id: KR4h0112_krp_009-bkkpn6}
   - {type: 'kr:newline', offset: 2203, content: '
@@ -868,6 +870,7 @@ markers:
   - {type: line-break, offset: 2203, content: '', id: KR4h0112_WYG_009-10b04}
   - {type: substitution, offset: 2210, original: 閒, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16567}}
   - {type: punctuation, offset: 2212, content: (, id: KR4h0112_krp_009-bkkpn7}
+  - {type: voice, offset: 2212, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 2214, content: /, id: KR4h0112_krp_009-bkkpn8}
   - {type: punctuation, offset: 2214, content: ), id: KR4h0112_krp_009-bkkpn9}
   - {type: 'kr:newline', offset: 2214, content: '
@@ -2889,4 +2892,4 @@ markers:
 
       ', id: KR4h0112_krp_009-bkkkrnewl593}
   back: []
-hash: sha256:02a4abea55bf60ef76a8d9c5bebd115dde1d886568c6a18678c82a78f71f0ad3
+hash: sha256:b0e4da25d31dab469632bd8acf5f6e3ec7ae41dbb318b15403f9c19af0b3f603
